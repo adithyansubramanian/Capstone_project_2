@@ -7,7 +7,7 @@ This is a repository for my second capstone project completed for Springboard's 
 Your system must have python with the following libraries installed: pandas, numpy, matplotlib, seaborn, NLTK, imblearn, scikit-learn, and scipy.
 
 ## Installing
-To start please download the csv file. This is the dataset used for the project. Next download and run the jupyter notebook. Also in this repository are 2 milestone reports, a final report, and a final presentation.
+To start please download the dataset from https://data.world/datafiniti/consumer-reviews-of-amazon-products. The dataset is too large to be downloaded onto this repository. Next download and run the jupyter notebook. Also in this repository are 2 milestone reports, a final report, and a final presentation.
 
 ## Author
 This project was created by me, Adithyan Subramanian, with the help of my mentor, Mukesh Mithrakumar. I can be easily reached by email at adithyan.subramanian19@gmail.com.
